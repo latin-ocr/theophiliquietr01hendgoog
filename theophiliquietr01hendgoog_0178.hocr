@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theophiliquietr01hendgoog_0178.png"; bbox 0 0 3096 5168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 131 2289 1203 2617">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 131 2289 1203 2617">
+     <span class='ocr_line' id='line_1_1' title="bbox 224 2289 1089 2391; baseline -0.006 -3"><span class='ocrx_word' id='word_1_1' title='bbox 224 2292 451 2390; x_wconf 83' lang='lat' dir='ltr'><strong>INCIPIT</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 508 2292 697 2391; x_wconf 85' lang='lat' dir='ltr'><strong>LIBER</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 757 2289 1089 2390; x_wconf 82' lang='lat' dir='ltr'><strong>SECUNDUS.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 131 2525 1203 2617; baseline 0.005 -9"><span class='ocrx_word' id='word_1_4' title='bbox 131 2527 222 2612; x_wconf 82' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 246 2528 556 2617; x_wconf 86' lang='lat' dir='ltr'><strong>BEGINNING</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 581 2527 647 2613; x_wconf 91' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 672 2527 782 2611; x_wconf 85' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 810 2525 1021 2614; x_wconf 84' lang='lat' dir='ltr'><strong>SECOND</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1046 2525 1203 2613; x_wconf 88' lang='lat' dir='ltr'><strong>BOOK.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1552 5168">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1552 5168">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1552 5168; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1552 5168; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

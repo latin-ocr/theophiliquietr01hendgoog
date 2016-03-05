@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theophiliquietr01hendgoog_0059.png"; bbox 0 0 3144 5184; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 516 2655 1234 2799">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 516 2655 1234 2799">
+     <span class='ocr_line' id='line_1_1' title="bbox 516 2655 1234 2719; baseline -0.001 -15"><span class='ocrx_word' id='word_1_1' title='bbox 516 2656 578 2719; x_wconf 73' lang='lat' dir='ltr'>Pago</span> <span class='ocrx_word' id='word_1_2' title='bbox 606 2656 645 2717; x_wconf 78' lang='lat'>97,</span> <span class='ocrx_word' id='word_1_3' title='bbox 662 2657 709 2705; x_wconf 85' lang='lat' dir='ltr'><strong>line</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 722 2659 760 2717; x_wconf 81' lang='lat'>30,</span> <span class='ocrx_word' id='word_1_5' title='bbox 770 2658 817 2715; x_wconf 87' lang='lat' dir='ltr'>for</span> <span class='ocrx_word' id='word_1_6' title='bbox 827 2657 932 2719; x_wconf 73' lang='lat' dir='ltr'>painting</span> <span class='ocrx_word' id='word_1_7' title='bbox 943 2656 981 2715; x_wconf 82' lang='lat' dir='ltr'>oil,</span> <span class='ocrx_word' id='word_1_8' title='bbox 993 2657 1051 2704; x_wconf 67' lang='lat' dir='ltr'>read</span> <span class='ocrx_word' id='word_1_9' title='bbox 1062 2655 1185 2719; x_wconf 75' lang='lat' dir='ltr'>preparing</span> <span class='ocrx_word' id='word_1_10' title='bbox 1195 2655 1234 2703; x_wconf 84' lang='lat' dir='ltr'>oil.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 596 2739 1080 2799; baseline 0.002 -13"><span class='ocrx_word' id='word_1_11' title='bbox 596 2739 651 2799; x_wconf 87' lang='lat'><strong>101,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 657 2742 701 2798; x_wconf 85' lang='lat' dir='ltr'>sor</span> <span class='ocrx_word' id='word_1_13' title='bbox 713 2739 855 2799; x_wconf 57' lang='lat' dir='ltr'>PauselinQ</span> <span class='ocrx_word' id='word_1_14' title='bbox 867 2742 926 2788; x_wconf 80' lang='lat' dir='ltr'><strong><em>read</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 939 2739 1080 2787; x_wconf 72' lang='lat' dir='ltr'><strong>Panselinou.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1576 5184">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1576 5184">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1576 5184; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1576 5184; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
